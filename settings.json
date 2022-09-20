@@ -1,0 +1,7 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "json.format.keepLines": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "on"
+}
